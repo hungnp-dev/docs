@@ -1,8 +1,4 @@
-### **Lộ trình Phân tích Bài báo Theo 7 Câu hỏi Cốt lõi**
-
-Hãy xem việc đọc bài báo này như một hành trình đi tìm câu trả lời cho 7 câu hỏi của bạn. Mỗi phần của bài báo sẽ cung cấp mảnh ghép cho một hoặc nhiều câu trả lời.
-
----
+### **Lộ trình Phân tích Bài báo Theo 7 Câu hỏi**
 
 #### **Mục tiêu 1: Trả lời "Bài báo giải quyết vấn đề gì? Ứng dụng vào đâu?" (Câu hỏi 1)**
 
